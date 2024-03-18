@@ -1,1 +1,1 @@
-Esercizi JAva del corso Sviluppatore Web. 
+Esercizi Java del corso Sviluppatore Web. 
