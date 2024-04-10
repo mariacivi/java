@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgreen; 
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+                         
+h1 {
+    font-size: 36px;
+    color: #007bff;            
+    margin-bottom: 20px;
+     text-shadow: 2px 2px #ff0000;
+     font-family: papyrus;
+      text-decoration: underline;
+}
+
+p {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
